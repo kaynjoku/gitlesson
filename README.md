@@ -5,7 +5,7 @@
     </head>
     <body>
       <div>
-        Welcome to my page.
+          <H1 Style="Color:blue;"> Welcome to my page.</H1>
       </div>
     </body>
 <html>
